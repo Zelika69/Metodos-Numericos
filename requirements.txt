@@ -1,0 +1,16 @@
+# Dependencias del proyecto Solucionador de Métodos Numéricos
+
+# Dependencias estándar de Python (ya incluidas)
+# tkinter - Interfaz gráfica (incluido en Python estándar)
+# math - Funciones matemáticas (incluido en Python estándar)
+
+# Dependencias requeridas para gráficas
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Dependencias opcionales para futuras mejoras:
+# scipy>=1.7.0       # Para métodos numéricos adicionales
+# sympy>=1.9         # Para cálculo simbólico
+
+# Para instalar todas las dependencias:
+# pip install -r requirements.txt
